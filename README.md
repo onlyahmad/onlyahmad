@@ -4,7 +4,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/ahmad-s-985180160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ahmad-blue?style=flat-square&logo=linkedin"></a>
 <a target="_blank" href="https://www.instagram.com/ahmad22_97/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ahmad22_97-blue?style=flat-square&logo=instagram"></a>
 </p>
-I was Born On 22th Of November 1997. I am a Network Enginner with strong passion to learn new things.Currently I am interested and learning about Devops Enginner.
+I am a Network Enginner with strong passion to learn new things.Currently I am interested and learning about Devops Enginner.
 <br/>
 <br/>
 - 🌱 I’m currently learning Devops<br>
